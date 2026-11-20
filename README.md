@@ -5,7 +5,7 @@
 
 Bash
 
-sed -i 's/\r$//' /root/install_kaviancopytrade_v1_0.sh && chmod +x /root/install_kaviancopytrade_v1_0.sh && bash /root/install_kaviancopytrade_v1_0.sh
+sed -i 's/\r$//' /root/install_kaviancopytrade.sh && chmod +x /root/install_kaviancopytrade.sh && bash /root/install_kaviancopytrade.sh
 
 بعد از نصب، سایت روی آدرس http://SERVER_IP:8900 بالا میاد.
 
@@ -13,7 +13,7 @@ sed -i 's/\r$//' /root/install_kaviancopytrade_v1_0.sh && chmod +x /root/install
 
 Bash
 
-sed -i 's/\r$//' /root/install_kaviancopytrade_v1_0.sh && chmod +x /root/install_kaviancopytrade_v1_0.sh && bash /root/install_kaviancopytrade_v1_0.sh copy.yourdomain.com admin@yourdomain.com
+sed -i 's/\r$//' /root/install_kaviancopytrade.sh && chmod +x /root/install_kaviancopytrade.sh && bash /root/install_kaviancopytrade.sh copy.yourdomain.com admin@yourdomain.com
 
 اتصال دامنه و SSL در آینده (هر زمان بعد از نصب حالت ۱):
 
