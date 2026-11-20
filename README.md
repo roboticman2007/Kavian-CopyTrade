@@ -5,7 +5,7 @@
 
 Bash
 
-sed -i 's/\r$//' /root/install_kaviancopytrade_v1_0.sh && chmod +x /root/install_kaviancopytrade_v1_0.sh && bash /root/install_kaviancopytrade_v1_0.sh
+"sed -i 's/\r$//' /root/install_kaviancopytrade_v1_0.sh && chmod +x /root/install_kaviancopytrade_v1_0.sh && bash /root/install_kaviancopytrade_v1_0.sh"
 
 بعد از نصب، سایت روی آدرس http://SERVER_IP:8900 بالا میاد.
 
