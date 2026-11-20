@@ -1,3 +1,8 @@
+
+
+bash <(curl -Ls https://raw.githubusercontent.com/roboticman2007/Kavian-CopyTrade/main/install_kaviancopytrade.sh)
+
+
 نصب روی سرور هتزنر آلمان
 فایل install_kaviancopytrade_v1_0.sh رو به مسیر /root/ روی سرور هتزنر آپلود کن:
 
